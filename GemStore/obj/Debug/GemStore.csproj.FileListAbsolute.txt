@@ -1,0 +1,6 @@
+H:\Visual Studio Projects\WindowsFormApplications\GemStore\GemStore\obj\Debug\GemStore.csprojResolveAssemblyReference.cache
+H:\Visual Studio Projects\WindowsFormApplications\GemStore\GemStore\bin\GemStore.dll.config
+H:\Visual Studio Projects\WindowsFormApplications\GemStore\GemStore\bin\GemStore.dll
+H:\Visual Studio Projects\WindowsFormApplications\GemStore\GemStore\bin\GemStore.pdb
+H:\Visual Studio Projects\WindowsFormApplications\GemStore\GemStore\obj\Debug\GemStore.dll
+H:\Visual Studio Projects\WindowsFormApplications\GemStore\GemStore\obj\Debug\GemStore.pdb
